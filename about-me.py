@@ -1,0 +1,10 @@
+print("===============================")
+print("  ABOUT ME  ")
+print("===============================")
+print("Name: Richmond")
+print("career goal: Software developer and Cybersecurity expert")
+print("python")
+print("javascript")
+print("c++")
+print("     (^_^)   ")
+
