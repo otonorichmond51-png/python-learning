@@ -6,5 +6,4 @@ print("career goal: Software developer and Cybersecurity expert")
 print("python")
 print("javascript")
 print("c++")
-print("     (^_^)   ")
-
+print("     (^_^)   ", end="")
