@@ -1,5 +1,5 @@
 student_name = input("Enter your name:")
-score = float(input("Enter you score:"))
+score = float(input("Enter your score:"))
 percentage = score
 even_score = score % 2 == 0
 passed = score >= 50
@@ -14,5 +14,3 @@ print("Score:", percentage)
 print("Passed:", passed)
 print("Even Score:", even_score)
 print("======================")
-
-
